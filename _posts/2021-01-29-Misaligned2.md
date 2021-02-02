@@ -4,7 +4,7 @@ tags:
 article_header:
   type: cover
   image:
-    src: files/render.jpg
+    src: files/render.png
 ---
 
 
