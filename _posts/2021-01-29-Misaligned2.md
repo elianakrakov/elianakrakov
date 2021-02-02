@@ -8,7 +8,7 @@ article_header:
 ---
 
 
-## Stardate 98671.69 (1/26/2021)
+## Stardate 98671.69  
 
 We spent today alligning the X-Ray beam. 
 
