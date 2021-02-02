@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The mystery of the Missaligned X-Ray
+title: The mystery of the Misaligned X-Ray
 ---
 
 Stardate 98671.69 (1/26/2021)
