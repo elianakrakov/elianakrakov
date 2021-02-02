@@ -28,7 +28,7 @@ key: page-about
 
 ![TeXt Theme](https://www.iasplus.com/en/images/responsive/photos/circular/lego-sphere/image)
 
-Hahaha I am so funny. 
+Hi! This is my research blog. :)
 
 ```javascript
 (() => console.log('Hello, World!'))();
