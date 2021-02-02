@@ -18,4 +18,4 @@ We went though all of the steps specified by SAXSquant. Everything worked until 
 
 In the meantime, I made a render of the system because it was fun. 
 
-![SAXS renderm](/files/render.png)
+![SAXS renderm](/files/render.jpg)
