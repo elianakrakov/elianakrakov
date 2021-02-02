@@ -7,6 +7,13 @@ article_header:
     src: /screenshot.jpg
 ---
 
-A Post with Header Image, See [Page layout](https://tianqi.name/jekyll-TeXt-theme/samples.html#page-layout) for more examples.
+Stardate 98679.95
+
+
+There is currently no cure for AD and no reliable method for early detection. The disease is characterized by plaques and fibrils formed in the brain. However, these plaques are not direct indicators of the disease, demanding further research into the aggregation process and its role. I am using a small-angle x-ray scattering technique to obtain structural (and temporal) information of aggregated proteins associated with  Alzheimer's, specifically alpha-syn A532 and tau 383 0N4R. 
+
+I will keep all my lab entrees on this site for easy access. Live long and prosper. 
+
+Here is [the PDF](/files/research_proposal_phys407.pdf) of my proposal for this semesters research.
 
 <!--more-->
