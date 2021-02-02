@@ -1,7 +1,12 @@
 ---
-layout: post
-title: The mystery of the Misaligned X-Ray
+title: The Mystery of the Misaligned X-ray
+tags: 
+article_header:
+  type: cover
+  image:
+    src: files/render.jpg
 ---
+
 
 Stardate 98671.69 (1/26/2021)
 
