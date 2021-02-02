@@ -28,7 +28,7 @@ key: page-about
 
 ![TeXt Theme](https://www.iasplus.com/en/images/responsive/photos/circular/lego-sphere/image)
 
-TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
+Hahaha I am so funny. 
 
 ```javascript
 (() => console.log('Hello, World!'))();
