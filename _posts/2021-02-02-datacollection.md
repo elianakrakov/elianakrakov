@@ -25,11 +25,12 @@ We observed clear bragg peaks from the caffine sample.
 ## Tau 383
 rPeptide is to protein samples as T-mobile is to celular plans.
 {:.error}
-We purchased Tau 383 from rPeptide because it was cheaper than sigma aldrich. I ordered 500 $$\mu g$$ of the protein in the form of white lyophilized powder. [See data sheet here](https://www.rpeptide.com/_code/_dyn_images/products/data-sheet/T-1005-Tau-383-Revised.pdf)  Here is what we got. 
+We purchased Tau 383 from rPeptide because it was cheaper than sigma aldrich. I ordered 500 $$\mu g$$ of the protein in the form of white lyophilized powder. [See data sheet here](https://www.rpeptide.com/_code/_dyn_images/products/data-sheet/T-1005-Tau-383-Revised.pdf).  Here is what we got. 
 
  
  
 ![lies](/files/lies.png)
+Both viles were supposed to have the same amout of powder in them. We recieved 4 viles, each (supposedly) containing 125 $$\mu g$$. I scraped enough of the powder out to fill a vile. 
 
 
 Originally we thought we saw scattering from the tau sample but it turned out that it was just scattering off of the tip. 
