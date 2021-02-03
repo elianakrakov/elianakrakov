@@ -41,10 +41,9 @@ Originally we thought we saw scattering from the tau sample but it turned out th
 meanwhile ... our 1000 $$\mu g$$ of alpha synuclein were perfectly normal ...
 ## amyloid beta
 # Aggregation
-|sample weight $$\mu$$mg| vile with sample weight | solution weight  |
-| ------------- | ------------- | ------------- | 
-| Content Cell  | Content Cell  | Content Cell  | 
-| Content Cell  | Content Cell  | Content Cell  | 
-| Content Cell  | Content Cell  | Content Cell  | 
-| Content Cell  | Content Cell  | Content Cell  | 
+| Header 1 | Header 2 | Header 3 |
+| --- | --- | --------- |
+| Some data | | Cell 3 |
+| data | Some long data here | more data | 
+
 We had no expextation of seeing much from the the non aggregated samples of tau, alpha synuclein or amyloid beta. Following the measurments, we aggregat
