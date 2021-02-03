@@ -29,7 +29,9 @@ We purchased Tau 383 from rPeptide because it was cheaper than sigma aldrich. I 
 
  
  
-![lies](/files/lies.png)
+<img class="image image--sm" src="/files/lies.png">
+
+
 Both viles were supposed to have the same amout of powder in them. We recieved 4 viles, each (supposedly) containing 125 $$\mu g$$. I scraped enough of the powder out to fill a vile. 
 
 
