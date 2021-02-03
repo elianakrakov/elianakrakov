@@ -21,7 +21,13 @@ For each sample we took two measurments each with an exposure time of 300 second
 ## Caffine 
 We observed clear bragg peaks from the caffine sample. 
 ## BSA
+
 ## tau
+R peptide is to protien samples as T mobile is to celular plans.
+{:.error}
+
 Originally we thought we saw scattering from the tau sample but it turned out that it was just scattering off of the tip. 
 ## alpha synuclein 
 ## amyloid beta
+# Aggregation
+We had no expextation of seeing much from the the non aggregated samples of tau, alpha synuclein or amyloid beta. Following the measurments, we aggregat
