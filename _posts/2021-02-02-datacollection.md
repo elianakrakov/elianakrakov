@@ -31,10 +31,7 @@ We purchased Tau 383 from rPeptide because it was cheaper than sigma aldrich. I 
  
 <img class="image image--sm" src="/files/lies.png">
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+
 
 Both viles were supposed to have the same amout of powder in them. We recieved 4 viles, each (supposedly) containing 125 $$\mu g$$. I scraped enough of the powder out to fill a vile. 
 
@@ -44,5 +41,10 @@ Originally we thought we saw scattering from the tau sample but it turned out th
 meanwhile ... our 1000 $$\mu g$$ of alpha synuclein were perfectly normal ...
 ## amyloid beta
 # Aggregation
-
+| sample weight  | Second Header | Content Cell  |
+| ------------- | ------------- | ------------- | 
+| Content Cell  | Content Cell  | Content Cell  | 
+| Content Cell  | Content Cell  | Content Cell  | 
+| Content Cell  | Content Cell  | Content Cell  | 
+| Content Cell  | Content Cell  | Content Cell  | 
 We had no expextation of seeing much from the the non aggregated samples of tau, alpha synuclein or amyloid beta. Following the measurments, we aggregat
