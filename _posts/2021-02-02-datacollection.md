@@ -14,6 +14,8 @@ Today we collected scattering patterns of $$BSA$$, $$\alpha$$-$$syn$$, caffine, 
 
 Because of the issues we had with SAXSpace, we decided to use the prototype version. It is a polycromatic version of the SAXSpace and much more intuitive to use. Because it is polycroomatic, it is significantly higher energy and can be used to probe much thicker samples (even though that is not relevent for our setup). However, for the same reason, it can only probe solid samples. 
 
+The X-ray is an open system requiring the operator 
+
 
 
 
