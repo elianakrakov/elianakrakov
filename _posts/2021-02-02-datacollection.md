@@ -25,13 +25,14 @@ We observed clear bragg peaks from the caffine sample.
 ## Tau 383
 rPeptide is to protien samples as T mobile is to celular plans.
 {:.error}
-We purchased Tau 383 from rPeptide because it was cheaper than sigma aldrich. I ordered 500 $$\mu g$$ of the protein in the form of white lyophilized powder. [See data sheet here](https://www.rpeptide.com/_code/_dyn_images/products/data-sheet/T-1005-Tau-383-Revised.pdf). Here is what we got. 
+We purchased Tau 383 from rPeptide because it was cheaper than sigma aldrich. I ordered 500 $$\mu g$$ of the protein in the form of white lyophilized powder. [See data sheet here] (https://www.rpeptide.com/_code/_dyn_images/products/data-sheet/T-1005-Tau-383-Revised.pdf). Here is what we got. 
 
 <img class="image image--sm" src="/files/lies.JPG">
 
 
 Originally we thought we saw scattering from the tau sample but it turned out that it was just scattering off of the tip. 
 ## alpha synuclein 
+meanwhile ... our 1000 $$\mu g$$ of alpha synuclein were perfectly normal ...
 ## amyloid beta
 # Aggregation
 We had no expextation of seeing much from the the non aggregated samples of tau, alpha synuclein or amyloid beta. Following the measurments, we aggregat
