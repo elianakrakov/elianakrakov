@@ -26,7 +26,7 @@ titles:
   # @end locale config
 key: page-about
 ---
-## Random 
+## IT IS A BLOCK SPHERE HAHAHA
 ![TeXt Theme](https://www.iasplus.com/en/images/responsive/photos/circular/lego-sphere/image)
 
 Hi! This is my research blog. :)
