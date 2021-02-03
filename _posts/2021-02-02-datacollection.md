@@ -29,7 +29,7 @@ We purchased Tau 383 from rPeptide because it was cheaper than sigma aldrich. I 
 
  
  
-<img class="image image--sm" src="/files/lies.png">
+<img class="image image--md" src="/files/lies.png">
 
 
 
