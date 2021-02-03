@@ -8,7 +8,7 @@ article_header:
 ---
 
 # Overview 
-Today we collected scattering patterns of $$BSA$$, $$\alpha$$-$$syn$$, caffine, $$\tau au$$ and amyloid beta using the prototype SAXS system. We were able to see clear scattering peaks for BSA and caffine, possible peaks for $$\alpha$$-$$syn$$, and no peaks for amyloid beta or $$\tau au$$. Following initial measurments,  we placed $$\tau au$$, $$\alpha$$-$$syn$$ and amyloid beta in an incubator in order to induce aggegation. We will complete measurments on the aggregated samples next tuesday after a week of incubation. 
+Today we collected scattering patterns of BSA, $$\alpha$$-$$syn$$, caffine, $$\tau au$$ and amyloid beta using the prototype SAXS system. We were able to see clear scattering peaks for BSA and caffine, possible peaks for $$\alpha$$-$$syn$$, and no peaks for amyloid beta or $$\tau au$$. Following initial measurments,  we placed $$\tau au$$, $$\alpha$$-$$syn$$ and amyloid beta in an incubator in order to induce aggegation. We will complete measurments on the aggregated samples next tuesday after a week of incubation. 
 
 # SAXS prototype
 
@@ -18,4 +18,7 @@ The X-ray is an open system requiring the operator
 
 # Sample measurments 
 ## Caffine 
-
+## BSA
+## $$\tau au$$
+## $$\alpha$$-$$syn$$
+## amyloid beta
