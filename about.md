@@ -26,7 +26,7 @@ mathjax: true
   # @end locale config
 key: page-about
 ---
-## About 
+## Random 
 ![TeXt Theme](https://www.iasplus.com/en/images/responsive/photos/circular/lego-sphere/image)
 
 Hi! This is my research blog. :)
