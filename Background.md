@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: background
 titles:
 
   # @start locale config
@@ -24,7 +24,7 @@ titles:
   fr-FR   : *FR
   fr-LU   : *FR
   # @end locale config
-key: page-about
+key: page-background
 ---
 ## IT IS A BLOCK SPHERE HAHAHA
 ![TeXt Theme](https://www.iasplus.com/en/images/responsive/photos/circular/lego-sphere/image)
