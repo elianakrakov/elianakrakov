@@ -25,7 +25,7 @@ titles:
   # @end locale config
 key: page-about
 ---
-
+## About 
 ![TeXt Theme](https://www.iasplus.com/en/images/responsive/photos/circular/lego-sphere/image)
 
 Hi! This is my research blog. :)
@@ -34,8 +34,8 @@ Hi! This is my research blog. :)
 (() => console.log('Hello, World!'))();
 ```
 
-## About
-LALALA
+## More stuff 
+This tempelate supports math $$\oint 5x^2dx$$
 
 
 
