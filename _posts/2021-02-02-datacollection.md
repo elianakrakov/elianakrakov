@@ -17,8 +17,11 @@ Because of the issues we had with SAXSpace, we decided to use the prototype vers
 The X-ray is an open system requiring the operator 
 
 # Sample measurments 
+For each sample we took two measurments each with an exposure time of 300 seconds. All samples were placed in a plastic srynge by (find company name). Background measurments of the srynge were also taken at the same exposure time. 
 ## Caffine 
+We observed clear bragg peaks from the caffine sample. 
 ## BSA
-## $$\tau au$$
-## $$\alpha$$-$$syn$$
+## tau
+Originally we thought we saw scattering from the tau sample but it turned out that it was just scattering off of the tip. 
+## alpha synuclein 
 ## amyloid beta
