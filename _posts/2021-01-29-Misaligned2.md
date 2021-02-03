@@ -10,9 +10,9 @@ article_header:
 
 ## Stardate 98671.69  
 
-We spent today alligning the X-Ray beam. 
+We spent today aligning the X-Ray beam. 
 
-We went though all of the steps specified by SAXSquant. Everything worked until the sample adjustment stage where we got an error saying "beam intensity is too low". A screencapture of the error is below. 
+We went through all of the steps specified by SAXSquant. Everything worked until the sample adjustment stage, where we got an error saying "beam intensity is too low". A screen capture of the error is below. 
 
 ![intensity error](/files/intensity_error.png)
 
