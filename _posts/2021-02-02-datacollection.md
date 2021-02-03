@@ -29,7 +29,7 @@ We purchased Tau 383 from rPeptide because it was cheaper than sigma aldrich. I 
 
  
  
-![lies](files/lies.png)
+![lies](/files/lies.png)
 
 
 Originally we thought we saw scattering from the tau sample but it turned out that it was just scattering off of the tip. 
