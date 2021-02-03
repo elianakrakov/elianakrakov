@@ -1,6 +1,7 @@
 ---
 layout: article
 titles:
+mathjax: true
   # @start locale config
   en      : &EN       About
   en-GB   : *EN
