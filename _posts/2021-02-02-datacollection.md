@@ -1,6 +1,6 @@
 ---
 title: Data collection
-tags: experiment 
+tags: experiment, research 
 article_header:
   type: cover
   image:
