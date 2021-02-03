@@ -41,7 +41,7 @@ Originally we thought we saw scattering from the tau sample, but it turned out t
 
 ## alpha synuclein 
 meanwhile ... our 1000 $$\mu g$$ of alpha synuclein were perfectly normal ...
-## amyloid beta
+## amyloid-beta
 # Aggregation
 | Header 1 | Header 2 | Header 3 |
 | --- | --- | --------- |
