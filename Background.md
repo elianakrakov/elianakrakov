@@ -1,5 +1,5 @@
 ---
-layout: background
+layout: Background
 titles:
 
   # @start locale config
