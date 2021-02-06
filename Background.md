@@ -1,5 +1,5 @@
 ---
-layout: Background
+layout: article
 titles:
 
   # @start locale config
