@@ -43,7 +43,7 @@ Originally we thought we saw scattering from the tau sample, but it turned out t
 
 
 ## amyloid-beta
-<img class="image image--md" src="/files/AB42samplenottim(feb2).png">
+<img src="/files/AB42samplenottim(feb2).png">
 <img class="image image--md" src="/files/AB42REPOSITIONED.png">
 
 # Aggregation
