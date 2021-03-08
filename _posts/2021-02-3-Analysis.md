@@ -11,12 +11,7 @@ article_header:
 # Overview 
 
 
-# SAXS prototype
-
-
-Because of the issues we had with SAXSpace, we decided to use the prototype version. It is a polychromatic version of the SAXSpace and much more intuitive to use. Because it is polychromatic, it is significantly higher energy and can be used to probe much thicker samples (even though that is not relevant for our setup). However, for the same reason, it can only probe solid samples. 
-
-The X-ray is an open system requiring the operator 
+# Translation of Matlab Code 
 
 # Sample measurments 
 For each sample, we took two measurements, each with an exposure time of 300 seconds. All samples were placed in a plastic syringe by (find company name). We also took background measurements of the syringe at the same exposure time. 
