@@ -28,7 +28,7 @@ We observed clear Bragg peaks from the caffeine sample.
 
  
  
-<img class="image image--md" src="/files/tau383.png">
+<img class="image image--md" src="/files/data-feb2/tau383.png">
 
 
 
