@@ -40,6 +40,7 @@ Originally we thought we saw scattering from the tau sample, but it turned out t
 ## amyloid-beta
 <img src="/files/AB42samplenottim(feb2).png">
 <img src="/files/AB42REPOSITIONED.png">
+The peak looked like it was from the tip, not the sample. We repositioned the empty sample container so the x-ray beam was hitting the tip. This confirmed that the peak was from the container not the sample. 
 
 
 
