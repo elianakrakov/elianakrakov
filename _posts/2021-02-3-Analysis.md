@@ -21,7 +21,7 @@ The X-ray is an open system requiring the operator
 # Sample measurments 
 For each sample, we took two measurements, each with an exposure time of 300 seconds. All samples were placed in a plastic syringe by (find company name). We also took background measurements of the syringe at the same exposure time. 
 ## Caffeine
-We observed clear Bragg peaks from the caffeine sample. 
+<img class="image src="/files/caffeine.png">
 ## BSA
 <img class="image src="/files/bsasample-final.png">
 
