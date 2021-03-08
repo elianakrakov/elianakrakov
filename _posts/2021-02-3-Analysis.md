@@ -23,13 +23,13 @@ For each sample, we took two measurements, each with an exposure time of 300 sec
 ## Caffeine
 We observed clear Bragg peaks from the caffeine sample. 
 ## BSA
-<img class="image image--md" src="/files/bsasample-final.png">
+<img class="image src="/files/bsasample-final.png">
 
 ## Tau 383
 
  
  
-<img class="image image--md" src="/files/tau383.png">
+<img src="/files/tau383.png">
 
 
 
@@ -39,12 +39,12 @@ Both viles were supposed to have the same amount of powder in them. We received 
 Originally we thought we saw scattering from the tau sample, but it turned out that it was just scattering off of the tip. 
 
 ## alpha synuclein 
-<img class="image image--md" src="/files/alphasyn-not-tip.png">
+<img src="/files/alphasyn-not-tip.png">
 
 
 ## amyloid-beta
 <img src="/files/AB42samplenottim(feb2).png">
-<img class="image image--md" src="/files/AB42REPOSITIONED.png">
+<img src="/files/AB42REPOSITIONED.png">
 
 # Aggregation
 | Header 1 | Header 2 | Header 3 |
