@@ -28,7 +28,7 @@ We observed clear Bragg peaks from the caffeine sample.
 
  
  
-<img class="image image--md" src="/files/data-feb2/tau383.png">
+<img class="image image--md" src="/files/tau383.png">
 
 
 
@@ -42,7 +42,7 @@ Originally we thought we saw scattering from the tau sample, but it turned out t
 
 
 ## amyloid-beta
-<img class="image image--md" src="/files/data-feb2/AB42Sample-nottip.png">
+<img class="image image--md" src="/files/AB42Sample-nottip.png">
 <img class="image image--md" src="/files/AB42REPOSITIONED.png">
 
 # Aggregation
