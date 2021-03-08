@@ -23,7 +23,7 @@ For each sample, we took two measurements, each with an exposure time of 300 sec
 ## Caffeine
 We observed clear Bragg peaks from the caffeine sample. 
 ## BSA
-<img class="image image--md" src="/files/BSAsample.png">
+<img class="image image--md" src="/files/bsasample-final.png">
 
 ## Tau 383
 
