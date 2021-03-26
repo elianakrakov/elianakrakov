@@ -7,15 +7,17 @@ article_header:
     src: 
 ---
 
-# Overview 
+# Attenuation Correction
+
+Today we took measurments to account for attenuation. Attenuation occurs when an X-ray beam interacts with matter therefore reducing its intensity.
+$$I=I_oe^{-\mu}{x}$$
 
 
-# Translation of Matlab Code 
+# Correcting 
 
 # Sample measurments 
 For each sample, we took two measurements, each with an exposure time of 300 seconds. All samples were placed in a plastic syringe by (find company name). We also took background measurements of the syringe at the same exposure time. These are the pre-aggregated samples. 
-## Caffeine
-<img src="/files/caffeine.png">
+
 ## BSA
 <img src="/files/bsasample-final.png">
 
