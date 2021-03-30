@@ -22,25 +22,16 @@ For each sample, we took two measurements, each with an exposure time of 300 sec
 <img src="/files/bsasample-final.png">
 
 ## Tau 383
-
- 
- 
-<img src="/files/tau383.png">
-
-
-
-Both viles were supposed to have the same amount of powder in them. We received 4 viles, each (supposedly) containing 125 $$\mu g$$. I scraped enough of the powder out to fill a vile. 
-
-
-Originally we thought we saw scattering from the tau sample, but it turned out that it was just scattering off of the tip. 
+we did not get transmission measurments for tau :( 
 
 ## alpha synuclein 
-<img src="/files/alphasyn-not-tip.png">
+<img src="/files/alphatransmission.png">
+<img src="/files/transmission_alpha.png">
 
 
 ## amyloid-beta
-<img src="/files/AB42samplenottim(feb2).png">
-<img src="/files/AB42REPOSITIONED.png">
+<img src="/files/amyloidtransmission.png">
+<img src="/files/transamyloid.png">
 The peak looked like it was from the tip, not the sample. We repositioned the empty sample container so the x-ray beam was hitting the tip. This confirmed that the peak was from the container not the sample. 
 
 
