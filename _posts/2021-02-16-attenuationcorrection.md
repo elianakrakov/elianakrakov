@@ -24,7 +24,7 @@ There are clear bragg peaks at 8.32 and 18.59 nm−1 These peaks correspond to t
 the 7.53–7.40 Å and 3.37–3.30 atomic spacings of caffeine. 
 
 ## BSA
-<img src="/files/bsacorrecteduncorrected.png">
+<img src="/files/BSA_correcteduncorrected.png">
 
 There are clear bragg peaks at 6.4 and 14 nm−1 These first peak corresponds to the $\beta-$sheet difference and the second corresponds to the $\beta$-strand distance. 
 
