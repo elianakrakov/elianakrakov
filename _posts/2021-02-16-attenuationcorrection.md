@@ -17,6 +17,8 @@ $I=I_oe^{-\mu}{x}$
 
 # Sample measurments 
 For each sample, we took two measurements, each with an exposure time of 300 seconds. All samples were placed in a plastic syringe by (find company name). We also took background measurements of the syringe at the same exposure time. These are the pre-aggregated samples. 
+## Caffeine 
+<img src="/files/caffeinetrans.png">
 
 ## BSA
 <img src="/files/bsacorrecteduncorrected.png">
