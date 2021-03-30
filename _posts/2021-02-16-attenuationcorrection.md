@@ -20,11 +20,16 @@ For each sample, we took two measurements, each with an exposure time of 300 sec
 ## Caffeine 
 <img src="/files/caffeinetrans.png">
 
+There are clear bragg peaks at 8.32 and 18.59 nm−1 These peaks correspond to the
+the 7.53–7.40 Å and 3.37–3.30 atomic spacings of caffeine. 
+
 ## BSA
 <img src="/files/bsacorrecteduncorrected.png">
 
+There are clear bragg peaks at 6.4 and 14 nm−1 These first peak corresponds to the $\beta-$sheet difference and the second corresponds to the $\beta$-strand distance. 
+
 ## Tau 383
-we did not get transmission measurments for tau :( 
+we did not get transmission measurments for tau :( There was just too little sample.
 
 ## alpha synuclein 
 <img src="/files/alphatransmission.png">
@@ -33,6 +38,8 @@ we did not get transmission measurments for tau :(
 
 ## amyloid-beta
 <img src="/files/amyloidtransmission.png">
+
+There is a peak at 21.46 nm. I 
 <img src="/files/transamyloid.png">
 The peak looked like it was from the tip, not the sample. We repositioned the empty sample container so the x-ray beam was hitting the tip. This confirmed that the peak was from the container not the sample. 
 
