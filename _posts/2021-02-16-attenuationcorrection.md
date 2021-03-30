@@ -19,7 +19,7 @@ $I=I_oe^{-\mu}{x}$
 For each sample, we took two measurements, each with an exposure time of 300 seconds. All samples were placed in a plastic syringe by (find company name). We also took background measurements of the syringe at the same exposure time. These are the pre-aggregated samples. 
 
 ## BSA
-<img src="/files/bsasample-final.png">
+<img src="/files/bsacorrecteduncorrected.png">
 
 ## Tau 383
 we did not get transmission measurments for tau :( 
