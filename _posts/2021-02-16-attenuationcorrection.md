@@ -35,13 +35,14 @@ we did not get transmission measurments for tau :( There was just too little sam
 <img src="/files/alphatransmission.png">
 <img src="/files/transmission_alpha.png">
 
+The peaks at 6.4 nm -1 and 13 nm-1 are below the line. There is also a peak at 21 m-1 but i am not sure what that is about.
 
 ## amyloid-beta
 <img src="/files/amyloidtransmission.png">
 
 There is a peak at 6.4 nm. This is characteristic of the beta strandd distance. I know it is an ugly plot but i belive it is significant. I wish I got more measruments so I could calculate the error. 
 <img src="/files/transamyloid.png">
-The peak looked like it was from the tip, not the sample. We repositioned the empty sample container so the x-ray beam was hitting the tip. This confirmed that the peak was from the container not the sample. 
+
 
 
 
