@@ -16,7 +16,7 @@ $I=I_oe^{-\mu}{x}$
 # Correcting 
 
 # Sample measurments 
-For each sample, we took two measurements, each with an exposure time of 300 seconds. All samples were placed in a plastic syringe by (find company name). We also took background measurements of the syringe at the same exposure time. These are the pre-aggregated samples. 
+For each sample, we took two measurements, each with an exposure time of 300 seconds. All samples were placed in a plastic syringe by (find company name). We also took background measurements of the syringe at the same exposure time. 
 ## Caffeine 
 <img src="/files/caffeinetrans.png">
 
@@ -40,7 +40,7 @@ The peaks at 6.4 nm -1 and 13 nm-1 are below the line. There is also a peak at 2
 ## amyloid-beta
 <img src="/files/amyloidtransmission.png">
 
-There is a peak at 6.4 nm. This is characteristic of the beta strandd distance. I know it is an ugly plot but i belive it is significant. I wish I got more measruments so I could calculate the error. 
+There is a peak at 6.4 nm. This is characteristic of the beta strandd distance. I know it is an ugly plot but i belive it is significant. I wish I got more measruments so I could calculate the error. I belive that if I took longer exposure measurments all with the quartz capillary then I would be able to determine more about it. 
 <img src="/files/transamyloid.png">
 
 
