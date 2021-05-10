@@ -10,7 +10,7 @@ article_header:
 # Attenuation Correction
 
 Today we took measurments to account for attenuation. Attenuation occurs when an X-ray beam interacts with matter therefore reducing its intensity.
-$I=I_oe^{-\mu}{x}$
+$I=I_oe^{-\mu}{x}$ I transfered all existing matlab code to python.
 
 
 # Correcting 
