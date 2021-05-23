@@ -28,7 +28,7 @@ Here are some example images of mask, transmission and sample as a reminder of w
 <img src="/files/openbeam.png">
 
 
-Just plotting the 
+Just plotting the averaged 80x80 image values per energy range for beam, no beam and an empty srynge. 
 
 
 <img src="/files/amyloidtransmission (1).png">
