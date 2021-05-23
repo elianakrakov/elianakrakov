@@ -21,16 +21,10 @@ For each sample, we took two measurements, each with an exposure time of 300 sec
 There was just too little sample. Here is the attempt. 
 
 ## alpha synuclein 
-<img src="/files/alphatransmission.png">
-<img src="/files/transmission_alpha.png">
-
-The peaks at 6.4 nm -1 and 13 nm-1 are below the line. There is also a peak at 21 m-1 but i am not sure what that is about.
+We took a measurment at 300 seconds andd then noticed a small peak at 6.5 nm$^{-1}$. We re-took this measurment at 600 seconds of exposure. Ideally we would have gotten more than one measurment at each exposure.
 
 ## amyloid-beta
-<img src="/files/amyloidtransmission.png">
 
-There is a peak at 6.4 nm. This is characteristic of the beta strandd distance. I know it is an ugly plot but i belive it is significant. I wish I got more measruments so I could calculate the error. I belive that if I took longer exposure measurments all with the quartz capillary then I would be able to determine more about it. 
-<img src="/files/transamyloid.png">
 
 
 
