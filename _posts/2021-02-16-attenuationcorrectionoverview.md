@@ -26,7 +26,7 @@ Here are some example images of mask, transmission and sample as a reminder of w
 <img src="/files/emptysrynge.png">
 ## open beam 
 <img src="/files/openbeam.png">
-
+As you can see, visually you can not see much of a ddifference.
 
 Just plotting the averaged 80x80 image values per energy range for beam, no beam and an empty srynge. 
 
