@@ -31,7 +31,7 @@ Here are some example images of mask, transmission and sample as a reminder of w
 Just plotting the 
 
 
-<img src="/files/amyloidtransmission.png">
+<img src="/files/amyloidtransmission (1).png">
 
 
 
