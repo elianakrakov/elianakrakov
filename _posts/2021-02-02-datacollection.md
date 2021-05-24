@@ -19,9 +19,28 @@ The X-ray is an open system requiring the operator
 
 # Sample measurments 
 For each sample, we took two measurements, each with an exposure time of 300 seconds. All samples were placed in a plastic syringe by (find company name). We also took background measurements of the syringe at the same exposure time. 
+
+
 ## Caffeine
-We observed clear Bragg peaks from the caffeine sample. 
+2020_feb_1ma_300s_caffine_I.hxt (first measurments)
+2020_feb_1ma_300s_caffine_II.hxt (second measurment) 
+<ol>
+<li>collect offsset (blank with X-ray off) taken into account in program</li>
+<li>Set present time for 400 seconds b/c bias refresh</li>
+<li>Take measurment for 300 seconds only</li>
+</ol>
+The 
+{:.warning}
+<img class="image image--md" src="shuttercontroll.JPG"/>
+*shutter controll*
+
+
+
+
 ## BSA
+
+
+
 
 ## Tau 383
 rPeptide is to protein samples as T-mobile is to celular plans.
