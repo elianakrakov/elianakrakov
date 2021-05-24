@@ -10,6 +10,8 @@ article_header:
 ---
 # Overview 
 Coming back after leaving protiens in incubator for a week. 
+<img class="image image--md" src="/files/aggimage.png">
+*Sample after aggregation*
 
 
 ## Measurments 
