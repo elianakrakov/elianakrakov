@@ -110,4 +110,4 @@ Second trial was consistent!
 
 
 We made sure we were not getting scattering off of tip by adjusting the sample so the pinhole was further away. 
-{:.info}
+{:.info} 
