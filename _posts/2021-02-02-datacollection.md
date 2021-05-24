@@ -31,7 +31,7 @@ For each sample, we took two measurements, each with an exposure time of 300 sec
 </ol>
 The 
 {:.warning}
-<img class="image image--md" src="files/shuttercontroll.JPG"/>
+<img class="image image--md" src="files/dataacqusition.PNG"/>
 *shutter controll*
 
 <img class="image image--md" src="files/shuttercontroll.JPG"/>
