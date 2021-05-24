@@ -2,6 +2,8 @@ title: Aggregation
 tags: experiment, sample-preparation 
 article_header:
   type: cover
+  bibliography: references.bib  
+
   image:
     src: 
     key: docs-image
@@ -76,5 +78,5 @@ Sample placed in incubator at 4:33 pm 2/2/2021.
   title = {Insights into the Mechanism of Aggregation and Fibril Formation from Bovine Serum Albumin},
   journal = {The Journal of Physical Chemistry B}
 }
-
+@Bhattacharya2011
 
