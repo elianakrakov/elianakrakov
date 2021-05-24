@@ -3,6 +3,8 @@ title: sSAXS intro
 tags: lab-notebook, introduction
 article_header:
   type: cover
+  date: 2010-09-15 13:40:45
+
   image:
     src: 
 ---
