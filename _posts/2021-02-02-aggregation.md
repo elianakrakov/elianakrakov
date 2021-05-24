@@ -25,18 +25,6 @@ article_header:
 
 
 
-
-
-2021_feb2_1mA_300s_syringe_emptyI.hxt (first measurment)
-2021_feb2_1mA_300s_syringe_emptyII.hxt (second measurment)
-<ol>
-<li>2 measured weights of sample</li>
-<li>2 measurments background (syringe only)h</li>
-<li>Take measurment for 300 seconds </li>
-</ol>
-
-
-
 measured weights of sample by getting weight of empty sryinge and then filled sample.  Measured weight of sample in scale (did not get name) of scale. Did not take multiple measurments of sample. This bad. 
 
 MEASURED WEIGHT OF SAMPLE WITH ONLY ONE MEASURMENT PER CONTAINER. IN FUTURE TAKE MULTIPLE.
