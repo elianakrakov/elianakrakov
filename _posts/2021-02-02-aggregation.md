@@ -10,15 +10,12 @@ article_header:
 
 ---
 # materials 
-| ---- | ---- |
-| **PBS 10X concentrate -Sigma-Aldrich**  | 10 mmol |
-| **NaCl pH 7.4**  | 150 mmol |
 
 
 | Material | amount | datasheet |
 | --- | --- |
-|  **PBS 10X concentrate -Sigma-Aldrich**  |10 mmol |  12.2 mg |
-|**NaCl pH 7.4**  | 1323.9 mg | 150 mmol  |
+|  **PBS 10X concentrate: Sigma-Aldrich**  |10 mmol |  find datasheet! |
+|**NaCl pH 7.4**  | 1323.9 mg | find datasheet! |
 
 20 milimol=.01 mol 
 
