@@ -1,6 +1,6 @@
 ---
 title: sSAXS intro 
-tags: code, introduction
+tags: lab-notes, introduction
 article_header:
   type: cover
   image:
