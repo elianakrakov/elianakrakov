@@ -20,7 +20,7 @@ It is not put in a vacccum
 
 air vs sample =/ water vs sample. 
 
-# Matlab analasys code notes
+# Matlab analysis code notes
 line 63: 1mA empty srynge 
 line 64: 1mA caffine sample 
 
