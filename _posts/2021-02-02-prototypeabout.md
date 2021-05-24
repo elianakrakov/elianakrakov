@@ -6,7 +6,7 @@ article_header:
   image:
     src: 
 ---
-(pages 3-4 in notebook)
+(pages 3-5.5 in notebook)
 # Overview 
 I learned about the sSAXS prototype since we decided the old device was hopeless. It is polychromatic with an energy range of ... 
 
@@ -75,3 +75,12 @@ It is the mask for the beam. This will be important when doing attenuation corre
 # HEXITEC
 Turn on bias voltage--voltage drives charge (wow who knew) pixpos
 turns on and off every few seconds 
+
+166 AUD units correspond to 5 keV
+gradient files - calibrates readings to energy
+
+charge correction - corrects overlapping charges 
+charge discriminator - takes highest count and resets all others ~~too~~
+
+find paper (3X3) neigborinng pixels 
+Bin=energy bin 
