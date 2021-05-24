@@ -3,7 +3,7 @@ title: Data collection
 tags: experiment, research 
 article_header:
   type: cover
-  image:
+  image: 
     src: 
 
 
