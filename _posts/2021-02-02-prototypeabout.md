@@ -76,7 +76,7 @@ It is the mask for the beam. This will be important when doing attenuation corre
 
 # HEXITEC
 
-![Alt Text](files/deforms.gif)
+![Alt Text](files/caffeine-.gif)
 
 
 
