@@ -5,6 +5,7 @@ article_header:
   type: cover
   image:
     src: 
+    key: docs-image
 
 
 | Type | Class Names |
