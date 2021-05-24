@@ -22,7 +22,7 @@ Caffeine measurments as system check.
 
 all good! Only took one measurment. 
 
-# $\alpha$-syn$
+# $\alpha$-syn
 Aggregating resulted in a fibril like structure. The fibrils were very dispersed throughout the sample so I tried to put move by tapping on the syringe. I was stopped just in time but... idiot moment (that will ruin the fibrils)
 
 After the first measurment 300 seconds, took another measurment at 600 seconds. Did not see anything so took another measurement at 600 seconds and accidentally overwrote the second measurement. 
