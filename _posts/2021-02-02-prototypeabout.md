@@ -75,6 +75,11 @@ It is the mask for the beam. This will be important when doing attenuation corre
 {:.info}
 
 # HEXITEC
+
+![Alt Text](files/deforms.gif)
+
+
+
 Turn on bias voltage--voltage drives charge (wow who knew) pixpos
 turns on and off every few seconds 
 
