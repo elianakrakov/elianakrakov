@@ -91,3 +91,4 @@ charge discriminator - takes highest count and resets all others ~~too~~
 
 find paper (3X3) neigborinng pixels 
 Bin=energy bin 
+ 
