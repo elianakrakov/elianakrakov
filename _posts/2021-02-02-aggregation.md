@@ -9,7 +9,7 @@ article_header:
 
 
 ---
-| Type | Class Names |
+| Type | Clapes |
 
 | ---- | ---- |
 | **base**  | image |
