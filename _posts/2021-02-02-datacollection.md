@@ -7,6 +7,11 @@ article_header:
     src: 
 ---
 
+| Type | Class Names |
+| ---- | ---- |
+| **base**  | image |
+| **size**  | image\-\-md (default), image\-\-xs, image\-\-sm, image\-\-lg, image\-\-xl |
+
 # Overview 
 Today we collected scattering patterns of BSA, $$\alpha$$-$$syn$$, caffeine, $$\tau au$$, and amyloid-beta using the prototype SAXS system. We were able to see clear scattering peaks for BSA and caffeine, possible peaks for $$\alpha$$-$$syn$$, and no peaks for amyloid-beta or $$\tau au$$. Following initial measurements,  we placed $$\tau au$$, $$\alpha$$-$$syn$$, and amyloid-beta in an incubator to induce aggregation. We will take more measurements of the samples next week.
 
