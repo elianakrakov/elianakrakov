@@ -58,7 +58,7 @@ Obviously these measurements make no sense. There is no way that the sample weig
 Then we put the samples (in the plastic containers) in an incubator and set it to 40$^{\circ}C$. When we put the sample in, it was at 38$^{\circ}C$.
 
 Sample placed in incubator at 4:33 pm 2/2/2021.
-{:.important}
+{:.info}
 
 
 
