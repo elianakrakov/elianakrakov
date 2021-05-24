@@ -67,18 +67,6 @@ Then we put the samples (in the plastic containers) in an incubator and set it t
 Sample placed in incubator at 4:33 pm 2/2/2021.
 {:.info}
 
-@article{Bhattacharya2011,
-  doi = {10.1021/jp111528c},
-  url = {https://doi.org/10.1021/jp111528c},
-  year = {2011},
-  month = apr,
-  publisher = {American Chemical Society ({ACS})},
-  volume = {115},
-  number = {14},
-  pages = {4195--4205},
-  author = {Mily Bhattacharya and Neha Jain and Samrat Mukhopadhyay},
-  title = {Insights into the Mechanism of Aggregation and Fibril Formation from Bovine Serum Albumin},
-  journal = {The Journal of Physical Chemistry B}
-}
+
 @Bhattacharya2011
 
