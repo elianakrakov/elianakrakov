@@ -10,6 +10,13 @@ article_header:
 
 ---
 | Type | Class Names |
+
 | ---- | ---- |
 | **base**  | image |
 | **size**  | image\-\-md (default), image\-\-xs, image\-\-sm, image\-\-lg, image\-\-xl |
+
+
+
+
+
+
