@@ -2,6 +2,8 @@ title: Aggregation
 tags: experiment, sample-preparation 
 article_header:
   type: cover
+  date: 2010-09-15 13:46:45
+
   bibliography: references.bib  
 
   image:
