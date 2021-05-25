@@ -33,6 +33,13 @@ two .5 cm blocks
 
 
 # 3 cm
+
+| trial | file name |
+| --- | --- |
+|     I | 2021_feb16_150s_0.2mA_transmission_PMMA_30mm_I.hxt |
+| II | 2021_feb16_150s_0.2mA_transmission_PMMA_30mm_II.hxt |
+
+
 Took two measurments at .2mA and 150s
 two .5 cm blocks and one 2 cm block.
 2021_feb16_150s_0.2mA_transmission_PMMA_30mm_I.hxt
