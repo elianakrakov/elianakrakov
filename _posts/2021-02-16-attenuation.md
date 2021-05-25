@@ -10,15 +10,22 @@ article_header:
 
 ---
 ## Procedure
-Changed threshold value on detector 116 to 916. This corresponds to 27 keV and above. These settings are in the HEXITEC software (HexitecGigE V1.1) ---> processing. 
-
+ beam stop was removed prior to measurments/
+{:.info}
 We removed the beam stop 
-<img class="image image--md" src="/files/beamstop.jpg"/>
-
-*beam stop was removed prior to measurments*
+ 
+ 
+ 
 
 
  
+ 
+hanged threshold value on detector 116 to 916. This corresponds to 27 keV and above. These settings are in the HEXITEC software (HexitecGigE V1.1)
+{:.info}
+<img class="image image--lg" src="/files/processing_setup.PNG"/>
+ *HEXITEC DETECTOR PROCESSING SETUP. CHANGE THRESHOLD TO 916*
+
+
 
 X-ray and detector settings for following measurments 
 
@@ -26,16 +33,10 @@ X-ray and detector settings for following measurments
 | --- | --- | --- | --- | --- |
 |   .2 ma | 50 kVp | 150 s | 916 | no |
 
-
-
-
-<img src="/files/processing_setup.PNG">
-*HEXITEC DETECTOR PROCESSING SETUP. CHANGE THRESHOLD TO 916*
-
-Took two measurments of open beam. 
-
+ 
 # Open beam
 ![ Alt text](/files/beam.gif) 
+Took two measurments of open beam. 
 
 
 
