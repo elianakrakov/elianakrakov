@@ -37,6 +37,8 @@ Took two measurments of open beam.
 # Open beam
 ![ Alt text](/files/beam.gif) 
 
+
+
 | measurment # | file name |
 | --- | --- |
 |   I | 2021_feb16_0.2mA_150s_transmission_openbeam_I.hxt |
@@ -45,6 +47,8 @@ Took two measurments of open beam.
 
 if oversaturates we can set beam to .1 mA but we were fine at .2 mA. 
 
+<img src="/files/opennbeamtrans.png">
+*averaged E_i values for open beam*
 ## PMMA sample
 First collected 1 cm measurment. Used 2 blocks of .5 cm PMMA slabs.
 
