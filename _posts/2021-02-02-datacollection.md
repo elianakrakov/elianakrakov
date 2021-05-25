@@ -15,11 +15,7 @@ Today we collected scattering patterns of BSA, $$\alpha$$-$$syn$$, caffeine, $$\
 # SAXS prototype
 
 
-
-| Type | Class Names |
-| ---- | ---- |
-| **base**  | image |
-| **size**  | image\-\-md (default), image\-\-xs, image\-\-sm, image\-\-lg, image\-\-xl |
+ 
 
 Because of the issues we had with SAXSpace, we decided to use the prototype version. It is a polychromatic version of the SAXSpace and much more intuitive to use. Because it is polychromatic, it is significantly higher energy and can be used to probe much thicker samples (even though that is not relevant for our setup). However, for the same reason, it can only probe solid samples. 
 
