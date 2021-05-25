@@ -13,8 +13,8 @@ article_header:
 Changed threshold value on detector 116 to 916. This corresponds to 27 keV and above. These settings are in the HEXITEC software (HexitecGigE V1.1) ---> processing. 
 
 We removed the beam stop 
+<img class="image image--md" src="/files/beamstop.jpg"/>
 
-<imgclass="image image--md" src="/files/beamstop.jpg"/>
 *beam stop was removed prior to measurments*
 
 
