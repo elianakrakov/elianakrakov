@@ -10,6 +10,7 @@ article_header:
 ---
 (pages 3-5.5 in notebook)
 # Overview 
+went into the lab todday (2/2/2021) to learn how to use new setup! *date may be off in this.
 I MADE A RENDER!*UPDATE! :) 
 
  
