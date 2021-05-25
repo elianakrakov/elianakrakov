@@ -62,7 +62,8 @@ two .5 cm blocks
 | II | 2021_feb16_150s_0.2mA_transmission_PMMA_10mm_II.hxt |
 
 
-
+<img src="/files/pmma10mm.png">
+*averaged E_i values for 10mm PMMA*
 
 
 
@@ -72,6 +73,10 @@ two .5 cm blocks
 | --- | --- |
 |     I | 2021_feb16_150s_0.2mA_transmission_PMMA_30mm_I.hxt |
 | II | 2021_feb16_150s_0.2mA_transmission_PMMA_30mm_II.hxt |
+
+
+<img src="/files/pmma30mm.png">
+*averaged E_i values for 30mm PMMA*
 
 
 Took two measurments at .2mA and 150s
@@ -86,6 +91,9 @@ two .5 cm blocks and one 2 cm block.
 |  I | 2021_Feb16_0.2mA_150s_empty_syringe_I.hxt |
 | II | 2021_Feb16_0.2mA_150s_empty_syringe_II.hxt |
 
+<img src="/files/empty.png">
+*averaged E_i values for 30mm PMMA*
+
 # Caffeine 
 
 
@@ -95,17 +103,19 @@ two .5 cm blocks and one 2 cm block.
 |  I | 2021_Feb16_0.2mA_150s_caffeine_syringe_I.hxt |
 | II | 2021_Feb16_0.2mA_150s_caffeine_syringe_II.hxt |
 
-
+<img src="/files/caff12.png">
+*averaged E_i values for caffeine sample*
 
 # BSA
 
-2021_Feb16_0.2mA_150s_BSA_syringe_II.hxt
 
 | measurment # | file name |
 | --- | --- |
 |  I | 2021_Feb16_0.2mA_150s_BSA_syringe_I.hxt |
 | II | 2021_Feb16_0.2mA_150s_BSA_syringe_II.hxt |
 
+<img src="/files/BSA.png">
+*averaged E_i values for BSA sample*
 
 # $\alpha$-synuclein
 
@@ -117,7 +127,8 @@ two .5 cm blocks and one 2 cm block.
 |  I | 2021_Feb16_0.2mA_150s_alpha_aggregates_quartz_I.hxt |
 | II | 2021_Feb16_0.2mA_150s_alpha_aggregates_quartz_II.hxt |
 
-
+<img src="/files/ALPHA.png">
+*averaged E_i values for $\alpha$-syn sample*
 
 
 # amyloid-$\beta$
@@ -130,7 +141,8 @@ two .5 cm blocks and one 2 cm block.
 | II | 2021_Feb16_0.2mA_150s_abBeta_aggregates_quartz_II.hxt |
 
 
-
+<img src="/files/ALPHA.png">
+*averaged E_i values for amyloid sample*
 
 
 
