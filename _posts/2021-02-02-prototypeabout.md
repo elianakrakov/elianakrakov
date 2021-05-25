@@ -1,6 +1,6 @@
 ---
 title: sSAXS intro 
-tags: lab-notebook, introduction
+tags: lab-notebook introduction
 article_header:
   type: cover
    
