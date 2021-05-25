@@ -9,16 +9,31 @@ article_header:
 
 
 ---
-# Open beam
+## Procedure
 Lowered the threshold value on detector to 916 and above. This corresponds to 27 keV and above. FYI threshold value can be changed in HEXITEC software. 
-Startedd off by getting just beam measurement. 
+Started off by getting just beam measurement. 
+
+X-ray and detector settings for following measurments 
+
+| Current mA | Voltage kVp | exposure time (s) | threshold | beamstop |
+| --- | --- | --- | --- | --- |
+|   .2 ma | 50 kVp | 150s | 916 | no |
+
+
+
 
 <img src="/files/processing_setup.PNG">
 *HEXITEC DETECTOR PROCESSING SETUP. CHANGE THRESHOLD TO 916*
 
 Took two measurments of open beam. 
-2021_feb16_0.2mA_150s_transmission_openbeam_I.hxt (measurment one)
-2021_feb16_0.2mA_150s_transmission_openbeam_II.hxt (measurment two)
+
+# Open beam
+
+| measurment # | file name |
+| --- | --- |
+|   I | 2021_feb16_0.2mA_150s_transmission_openbeam_I.hxt |
+| II | 2021_feb16_0.2mA_150s_transmission_openbeam_II.hxt |
+
 
 if oversaturates we can set beam to .1 mA but we were fine at .2 mA. 
 
@@ -28,8 +43,15 @@ First collected 1 cm measurment. Used 2 blocks of .5 cm PMMA slabs.
 
 # 1 cm
 two .5 cm blocks
-2021_feb16_150s_0.2mA_transmission_PMMA_10mm_II.hxt
-2021_feb16_150s_0.2mA_transmission_PMMA_10mm_I.hxt
+
+| measurment # | file name |
+| --- | --- |
+|   I | 2021_feb16_150s_0.2mA_transmission_PMMA_10mm_I.hxt |
+| II | 2021_feb16_150s_0.2mA_transmission_PMMA_10mm_II.hxt |
+
+
+
+
 
 
 # 3 cm
