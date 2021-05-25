@@ -12,8 +12,7 @@ article_header:
 # Overview 
 I MADE A RENDER!*UPDATE! :) 
 
-<src="/files/ssaxs5.png"/>
-
+ 
 ![](/files/ssaxs5.png)
 
 All measurements will now be taken on a prototype spectral small-angle X-ray scattering device designed by the Eshan. This device uses a polychromatic X-ray source (tungsten anode, MXR-160/22, COMET) and records data on a 2D spectroscopic detector (HEXITEC, Quantum Detectors Ltd, Oxfordshire, UK) made from Cadmium telluride (CdTe). Unlike the CCD camera used in the previous setup, this detector can measure the energy and position of individual photons. The output is an $80 \times 80 \times 200$ array with the number of photons incident at each position for each energy level. Each pixel in the detector is $250\; \mu$m. Because the detector counts individual photons, a cross-sharing charge discrimination algorithm was implemented into the detector design. 
