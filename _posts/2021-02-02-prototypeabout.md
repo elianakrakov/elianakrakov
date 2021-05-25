@@ -10,6 +10,13 @@ article_header:
 ---
 (pages 3-5.5 in notebook)
 # Overview 
+I MADE A RENDER!*UPDATE! :) 
+
+<img class="image image--xl" src="/files/ssaxs.png"/>
+
+
+
+
 I learned about the sSAXS prototype since we decided the old device was hopeless. It is polychromatic with an energy range of ... 
 
 
