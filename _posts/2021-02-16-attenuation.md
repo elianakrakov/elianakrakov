@@ -34,7 +34,7 @@ two .5 cm blocks
 
 # 3 cm
 
-| trial | file name |
+| measurment # | file name |
 | --- | --- |
 |     I | 2021_feb16_150s_0.2mA_transmission_PMMA_30mm_I.hxt |
 | II | 2021_feb16_150s_0.2mA_transmission_PMMA_30mm_II.hxt |
@@ -42,31 +42,61 @@ two .5 cm blocks
 
 Took two measurments at .2mA and 150s
 two .5 cm blocks and one 2 cm block.
-2021_feb16_150s_0.2mA_transmission_PMMA_30mm_I.hxt
-2021_feb16_150s_0.2mA_transmission_PMMA_30mm_II.hxt
+
 
 ## Samples 
 Empty syringe 
-2021_Feb16_0.2mA_150s_empty_syringe_I.hxt (first measurement)
-2021_Feb16_0.2mA_150s_empty_syringe_II.hxt (second measurement)
+
+| measurment # | file name |
+| --- | --- |
+|  I | 2021_Feb16_0.2mA_150s_empty_syringe_I.hxt |
+| II | 2021_Feb16_0.2mA_150s_empty_syringe_II.hxt |
 
 # Caffeine 
-2021_Feb16_0.2mA_150s_caffeine_syringe_I.hxt (first measurement)
-2021_Feb16_0.2mA_150s_caffeine_syringe_II.hxt (second measurement)
+
+
+
+| measurment # | file name |
+| --- | --- |
+|  I | 2021_Feb16_0.2mA_150s_caffeine_syringe_I.hxt |
+| II | 2021_Feb16_0.2mA_150s_caffeine_syringe_II.hxt |
+
+
 
 # BSA
-2021_Feb16_0.2mA_150s_BSA_syringe_I.hxt
+
 2021_Feb16_0.2mA_150s_BSA_syringe_II.hxt
 
+| measurment # | file name |
+| --- | --- |
+|  I | 2021_Feb16_0.2mA_150s_BSA_syringe_I.hxt |
+| II | 2021_Feb16_0.2mA_150s_BSA_syringe_II.hxt |
+
+
 # $\alpha$-synuclein
-2021_Feb16_0.2mA_150s_alpha_aggregates_quartz_I.hxt
-2021_Feb16_0.2mA_150s_alpha_aggregates_quartz_II.hxt
+
+
+
+
+| measurment # | file name |
+| --- | --- |
+|  I | 2021_Feb16_0.2mA_150s_alpha_aggregates_quartz_I.hxt |
+| II | 2021_Feb16_0.2mA_150s_alpha_aggregates_quartz_II.hxt |
+
+
 
 
 # amyloid-$\beta$
 
-2021_Feb16_0.2mA_150s_abBeta_aggregates_quartz_I.hxt
-2021_Feb16_0.2mA_150s_abBeta_aggregates_quartz_II.hxt
+
+
+| measurment # | file name |
+| --- | --- |
+|  I | 2021_Feb16_0.2mA_150s_abBeta_aggregates_quartz_I.hxt |
+| II | 2021_Feb16_0.2mA_150s_abBeta_aggregates_quartz_II.hxt |
+
+
+
 
 
 
