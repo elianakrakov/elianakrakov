@@ -13,15 +13,19 @@ article_header:
 I MADE A RENDER!*UPDATE! :) 
 
 <img class="image image--xl" src="/files/ssaxs5.png"/>
+All measurements will now be taken on a prototype spectral small-angle X-ray scattering device designed by the Eshan. This device uses a polychromatic X-ray source (tungsten anode, MXR-160/22, COMET) and records data on a 2D spectroscopic detector (HEXITEC, Quantum Detectors Ltd, Oxfordshire, UK) made from Cadmium telluride (CdTe). Unlike the CCD camera used in the previous setup, this detector can measure the energy and position of individual photons. The output is an $80 \times 80 \times 200$ array with the number of photons incident at each position for each energy level. Each pixel in the detector is $250\; \mu$m. Because the detector counts individual photons, a cross-sharing charge discrimination algorithm was implemented into the detector design. 
+
+The polychromatic X-rays were generated using a tube voltage of 50 kVp with a current of 1 mA. The beam was collimated with two lead pinhole collimators of 2.5 mm (P1) then 5 mm (P2) diameter 160 mm apart. The detector was placed 214 mm from P2. A lead beam stop was placed in front of the detector to block non-scattered events and to avoid spectral degradation. 
+
+We placed the sample directly in front of and against the pinhole. There is no vacuum seal and no set slot for the sample---therefore, the exact placement of the container is not consistent. Once the sample is placed,  operator left the room and sets the desired acquisition time and current. For most of the sample measurments, we duscussed useing an acquisition time of 300 seconds and having the current set 1 mA. The X-ray is then turned on, and the data is collected. The data is stored in a .hex file and read using a Python script.
 
 
 
+# random notes (pg 3-6 in notebook)
 
-I learned about the sSAXS prototype since we decided the old device was hopeless. It is polychromatic with an energy range of ... 
 
 
-# Transcribed lab notes
-
+I learned about the sSAXS prototype since we decided the old device was hopeless. Sadness...
 
 The sSAXS device is not made for solution 
 
