@@ -56,6 +56,8 @@ We decided to move the sample over to a quartz capillary to prevent scattering f
 | --- | --- |
 | 1 | 2021_feb9_1mA_300s_alpha_quartz_aggregate_stepI.hxt|
 | 2 | 2021_feb9_1mA_300s_alpha_quartz_aggregate_stepI.hxt* |
+
+
 *mis-named. Will change to aggregate step 2. I am not sure why I did that? ***turns out this measurment is something else than what I called it and wroote in my lab notebook. I have to ignore it now.***
 
 | Measurement # | File name (empty quartz syringe) |
