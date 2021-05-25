@@ -10,14 +10,14 @@ article_header:
 ---
 # Overview 
 Coming back after leaving protiens in incubator for a week. 
-<img class="image image--md" src="/files/post-aggimage.png">
+<img src="/files/post-aggimage.png">
 *Sample after aggregation*
 
 
 ## Measurments 
 
 # Caffeine 
-Caffeine measurments as system check. 
+Caffeine measurments as system check. We verified a peak at 
 
 2021_feb9_1mA_300s_caffeinetest_original_I.hxt (measurment one)
 2021_feb9_1mA_300s_syringe_empty1.hxt ( empty syringe )
