@@ -15,9 +15,9 @@ Started off by getting just beam measurement.
 
 X-ray and detector settings for following measurments 
 
-| Current mA | Voltage kVp | exposure time (s) | threshold | beamstop |
+| Current  | Voltage | exposure time | threshold | beamstop |
 | --- | --- | --- | --- | --- |
-|   .2 ma | 50 kVp | 150s | 916 | no |
+|   .2 ma | 50 kVp | 150 s | 916 | no |
 
 
 
