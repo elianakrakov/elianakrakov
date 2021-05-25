@@ -12,7 +12,7 @@ article_header:
 ## Procedure
   beam stop was removed prior to measurments/
 {:.info}
-<img class="image image--md" src="/files/beamstop.jpg"/>
+<img class="image image--xl" src="/files/beamstop.jpg"/>
  
  
  
@@ -22,7 +22,7 @@ article_header:
  
 hanged threshold value on detector 116 to 916. This corresponds to 27 keV and above. These settings are in the HEXITEC software (HexitecGigE V1.1)
 {:.info}
-<img class="image image--lg" src="/files/processing_setup.PNG"/>
+<img class="image image--xl" src="/files/processing_setup.PNG"/>
  *HEXITEC DETECTOR PROCESSING SETUP. CHANGE THRESHOLD TO 916*
 
 
