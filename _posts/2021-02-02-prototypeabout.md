@@ -12,7 +12,7 @@ article_header:
 # Overview 
 I MADE A RENDER!*UPDATE! :) 
 
-<img class="image image--xl" src="/files/ssaxs.png"/>
+<img class="image image--xl" src="/files/ssaxs.jpg"/>
 
 
 
