@@ -35,6 +35,7 @@ X-ray and detector settings for following measurments
 Took two measurments of open beam. 
 
 # Open beam
+![ Alt text](/files/beam.gif) 
 
 | measurment # | file name |
 | --- | --- |
