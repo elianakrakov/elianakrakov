@@ -10,6 +10,7 @@ article_header:
 
 ---
 ## Procedure
+<img class="image image--md" src="/files/beamstop.jpg"/>
  beam stop was removed prior to measurments/
 {:.info}
 We removed the beam stop 
