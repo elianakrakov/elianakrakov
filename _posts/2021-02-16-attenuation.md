@@ -10,8 +10,15 @@ article_header:
 
 ---
 ## Procedure
-Lowered the threshold value on detector to 916 and above. This corresponds to 27 keV and above. FYI threshold value can be changed in HEXITEC software. 
-Started off by getting just beam measurement. 
+Changed threshold value on detector 116 to 916. This corresponds to 27 keV and above. These settings are in the HEXITEC software (HexitecGigE V1.1) ---> processing. 
+
+We removed the beam stop 
+
+<img src="/files/beamstop.jpg">
+*beam stop was removed prior to measurments*
+
+
+ 
 
 X-ray and detector settings for following measurments 
 
@@ -67,7 +74,7 @@ two .5 cm blocks and one 2 cm block.
 
 
 ## Samples 
-Empty syringe 
+# Empty syringe 
 
 | measurment # | file name |
 | --- | --- |
