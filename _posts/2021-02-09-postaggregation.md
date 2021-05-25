@@ -83,11 +83,10 @@ Did not take an addditional background measurement at 600s. Multiplied the backg
 
 | Measurement # | File name ( amyloid in quartz syringe) |
 | --- | --- |
-
 | 1 | 2021_feb9_1mA_300s_abquartz_aggregate_stepI.hxt|
 | 2 | 2021_feb9_1mA_300s_abquartz_aggregate_stepII.hxt |
 
-did not see much so just took one sample. 
+did not see anything promising so left it at one measurment.
 
 # Tau
 barely enough sample to see. 
