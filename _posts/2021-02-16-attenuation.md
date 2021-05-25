@@ -14,7 +14,7 @@ Changed threshold value on detector 116 to 916. This corresponds to 27 keV and a
 
 We removed the beam stop 
 
-<img src="/files/beamstop.jpg">
+<imgclass="image image--md", src="/files/beamstop.jpg">
 *beam stop was removed prior to measurments*
 
 
