@@ -26,17 +26,15 @@ titles:
   # @end locale config
 key: page-background
 ---
-## IT IS A BLOCK SPHERE HAHAHA
+## BLOCH SPHERE!
 ![TeXt Theme](https://www.iasplus.com/en/images/responsive/photos/circular/lego-sphere/image)
 
 Hi! This is my research blog. :)
 
 ```javascript
-(() => console.log('Hello, World!'))();
+(() => console.log('this tempelate supports code blocks'))();
 ```
-
-## More stuff 
-This tempelate supports math $$\oint 5x^2dx$$
-
+ 
+ 
 
 
