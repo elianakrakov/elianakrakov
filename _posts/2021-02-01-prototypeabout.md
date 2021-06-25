@@ -1,5 +1,5 @@
 ---
-title: sSAXS intro 
+title: intro
 tags: figuring stuff out 
 article_header:
   type: cover
